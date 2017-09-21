@@ -1,0 +1,1276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sam",
+				"sample_ratio"
+			],
+			[
+				"cv",
+				"cv_result"
+			],
+			[
+				"sa",
+				"sample_label"
+			],
+			[
+				"num",
+				"num_col"
+			],
+			[
+				"samp",
+				"sample_label"
+			],
+			[
+				"make",
+				"make_feat"
+			],
+			[
+				"eval",
+				"eval_metric"
+			],
+			[
+				"y_",
+				"y_test"
+			],
+			[
+				"sco",
+				"score_jj_sentence"
+			],
+			[
+				"listv",
+				"list_vb_q1"
+			],
+			[
+				"tag",
+				"tagged"
+			],
+			[
+				"nr",
+				"nr_tuples"
+			],
+			[
+				"nr_tu",
+				"nr_tuple"
+			],
+			[
+				"dict",
+				"dict_ext_ner"
+			],
+			[
+				"ex",
+				"ext_ner"
+			],
+			[
+				"list",
+				"list_ext_ner"
+			],
+			[
+				"to",
+				"tolist"
+			],
+			[
+				"e",
+				"e_tree"
+			],
+			[
+				"wor",
+				"word_tokenize"
+			],
+			[
+				"st",
+				"stime"
+			],
+			[
+				"text",
+				"texts_q1"
+			],
+			[
+				"pos_ta",
+				"pos_tag_sents"
+			],
+			[
+				"pe",
+				"penalty_surplus_vb"
+			],
+			[
+				"list_sco",
+				"list_score_nr"
+			],
+			[
+				"nn2",
+				"nn2_remainder"
+			],
+			[
+				"nn1",
+				"nn1_remainder"
+			],
+			[
+				"list_pr",
+				"list_pr_q2"
+			],
+			[
+				"list_sc",
+				"list_score_pr"
+			],
+			[
+				"ner",
+				"ner_model"
+			],
+			[
+				"score",
+				"score_nn_sentence"
+			],
+			[
+				"list_score_",
+				"list_score_jj"
+			],
+			[
+				"feat",
+				"feat_nn"
+			],
+			[
+				"list_",
+				"list_nn_q2"
+			],
+			[
+				"list_vb",
+				"list_vb_q1"
+			],
+			[
+				"origi",
+				"origin_word"
+			],
+			[
+				"sample",
+				"sample_label"
+			],
+			[
+				"data",
+				"data_df"
+			],
+			[
+				"spe",
+				"spell_dict"
+			],
+			[
+				"origin",
+				"origin_word"
+			],
+			[
+				"refine",
+				"refine_vb_list"
+			],
+			[
+				"list_v",
+				"list_vb_q1"
+			],
+			[
+				"list_jj",
+				"list_jj_q2"
+			],
+			[
+				"train",
+				"train_q2"
+			],
+			[
+				"pd",
+				"pd_outVocab"
+			],
+			[
+				"model",
+				"model_wv"
+			],
+			[
+				"dict_",
+				"dict_ptList_t"
+			],
+			[
+				"vb",
+				"list_vb_t"
+			],
+			[
+				"list_num",
+				"list_num_vb"
+			],
+			[
+				"dct",
+				"dict_sentence_pos"
+			],
+			[
+				"cur",
+				"cur_pos"
+			],
+			[
+				"path",
+				"path_glove"
+			],
+			[
+				"len",
+				"len_audio"
+			],
+			[
+				"audi",
+				"audio_filepath"
+			],
+			[
+				"cur_",
+				"cur_label"
+			],
+			[
+				"bat",
+				"batch_y"
+			],
+			[
+				"batc",
+				"batch_x"
+			],
+			[
+				"ti",
+				"time_total_sum"
+			],
+			[
+				"total",
+				"totalTime_event"
+			],
+			[
+				"fil",
+				"filename_pred"
+			],
+			[
+				"c",
+				"confu_mat"
+			],
+			[
+				"next",
+				"next_test_label"
+			],
+			[
+				"test",
+				"test_negative"
+			],
+			[
+				"test_",
+				"test_positive"
+			],
+			[
+				"_te",
+				"_test_data"
+			],
+			[
+				"test_la",
+				"test_label"
+			],
+			[
+				"check",
+				"checkpoint_dir"
+			],
+			[
+				"class",
+				"classifier_params"
+			],
+			[
+				"tota",
+				"time_total_sum"
+			],
+			[
+				"acc",
+				"acc_sum"
+			],
+			[
+				"event",
+				"event_label"
+			],
+			[
+				"n_",
+				"n_input"
+			],
+			[
+				"fea",
+				"feature_data"
+			],
+			[
+				"dis",
+				"discard_pos_len"
+			],
+			[
+				"sha",
+				"shape"
+			],
+			[
+				"test_label",
+				"test_label_pos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/sdeva/Research/writing/EUSIPCO/DD_EUSIPCO.tex",
+			"settings":
+			{
+				"buffer_size": 32698,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/RI/RI_internship.tex",
+			"settings":
+			{
+				"buffer_size": 6439,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/SOP/sop_Polytech.tex",
+			"settings":
+			{
+				"buffer_size": 10125,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/skype_interview.txt",
+			"settings":
+			{
+				"buffer_size": 7349,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/CV/applying/cv_sungho_applying.tex",
+			"settings":
+			{
+				"buffer_size": 24864,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/RI/RI_Social.tex",
+			"settings":
+			{
+				"buffer_size": 5028,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/SOP/sop_bonn.tex",
+			"settings":
+			{
+				"buffer_size": 10488,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/SOP/sop_HPI.tex",
+			"settings":
+			{
+				"buffer_size": 8501,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/SOP/sop_konstanz.tex",
+			"settings":
+			{
+				"buffer_size": 12816,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/SOP/sop_inria.tex",
+			"settings":
+			{
+				"buffer_size": 10221,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/PhD_apply/RI/RI_HPI.tex",
+			"settings":
+			{
+				"buffer_size": 7427,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/workspace/practice_pytorch/practice.py",
+			"settings":
+			{
+				"buffer_size": 114,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sdeva/Research/writing/PASCIN_IJCIP/PASIN_IJCIP.tex",
+			"settings":
+			{
+				"buffer_size": 98321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 292.0,
+		"last_filter": "prv",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"activate",
+				"Virtualenv: Activate"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sdeva/Research/PhD_apply/SOP/sop_inria.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_TIB.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_L3S.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_kassel.tex",
+		"/home/sdeva/Research/PhD_apply/RI/RI_L3S.tex",
+		"/home/sdeva/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/sdeva/.config/sublime-text-3/Packages/User/Python2.sublime-build",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_Bauhaus.tex",
+		"/home/sdeva/workspace/Kaggle/quora/quora.py",
+		"/home/sdeva/workspace/Kaggle/quora/featured.txt",
+		"/home/sdeva/workspace/Kaggle/quora/test.py",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_vb.csv",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_vb_test.csv",
+		"/home/sdeva/workspace/Kaggle/quora/feat_nn.csv",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_nn_test.csv",
+		"/home/sdeva/workspace/Kaggle/quora/stat/total_pos_tag",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab.csv",
+		"/home/sdeva/Downloads/main_querry_v2.py",
+		"/home/sdeva/Research/writing/EUSIPCO/170111_DD_editted.tex",
+		"/home/sdeva/workspace/d_d/dd_python/dd_rnn.py",
+		"/home/sdeva/workspace/d_d/exp_results/161207_exp_1500hz.txt",
+		"/home/sdeva/workspace/d_d/dd_python/src_dd/loadParam_manually.py",
+		"/home/sdeva/Research/PhD_apply/SOP/abstract_papers/abstract_papers.tex",
+		"/home/sdeva/Research/writing/InforSci_Spoiler_MN/SPOILER_InforSci_sc.tex",
+		"/home/sdeva/Research/writing/PASCIN_DSN/PASIN_IJCIP.tex",
+		"/home/sdeva/Downloads/elsarticle-template/elsarticle-template.tex",
+		"/home/sdeva/Downloads/elsarticle/elsarticle-template-num.tex",
+		"/home/sdeva/Downloads/elsarticle/elsarticle-template-harv.tex",
+		"/home/sdeva/Research/writing/PASCIN_DSN/PASIN_DSN.tex",
+		"/home/sdeva/Research/writing/CV/applying/cv_sungho_applying.tex",
+		"/home/sdeva/workspace/Kaggle/quora/data/train.csv",
+		"/home/sdeva/Research/PhD_apply/skype_interview",
+		"/home/sdeva/Research/PhD_apply/SOP/abstract_papers/abstract_thesis.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_basic.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_basic.py",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_nn.csv",
+		"/usr/local/lib/python2.7/dist-packages/xgboost-0.6-py2.7.egg/xgboost/sklearn.py",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_jj.csv",
+		"/home/sdeva/Research/writing/EUSIPCO/DD_EUSIPCO.bib",
+		"/home/sdeva/workspace/d_d/dd_python/dd_cnn.py",
+		"/home/sdeva/workspace/d_d/dd_python/label_neg_cnn.txt",
+		"/home/sdeva/workspace/d_d/dd_python/* Accuracy.txt",
+		"/home/sdeva/workspace/d_d/dd_python/src_dd/features_drone.py",
+		"/home/sdeva/workspace/practice/prac.py",
+		"/home/sdeva/workspace/d_d/dd_python/test_DCASE16_test_gmm_manual.py",
+		"/home/sdeva/workspace/d_d/exp_results/plotting_resultLabel.py",
+		"/home/sdeva/workspace/d_d/exp_results/plotting_resultLabel_dnn.py",
+		"/home/sdeva/workspace/d_d/dd_python/performance_UL.txt",
+		"/home/sdeva/workspace/Kaggle/quora/outVocab_test.csv",
+		"/home/sdeva/workspace/Kaggle/quora/data/test.csv",
+		"/home/sdeva/Research/PhD_apply/RI/RI_TUM.tex",
+		"/home/sdeva/Research/PhD_apply/RI/RI_TUBerlin.tex",
+		"/home/sdeva/Downloads/essay_1/essay_1.tex",
+		"/home/sdeva/Downloads/StatementOfResearch.tex",
+		"/home/sdeva/Downloads/stanford.tex",
+		"/home/sdeva/Downloads/rebuttal_dsn16.txt",
+		"/home/sdeva/workspace/Kaggle/quora/train_true.csv",
+		"/home/sdeva/workspace/text_model/glove.6B/glove.6B.50d.txt",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_TUM_Pfeffer.pdf",
+		"/home/sdeva/Research/PhD_apply/RI/RI_GESIS.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/abstract_thesis.tex",
+		"/home/sdeva/Research/writing/EUSIPCO_Arxiv/DD_EUSIPCO_Arxiv.tex",
+		"/home/sdeva/Research/PhD_apply/SOP/sop_basic.pdf",
+		"/home/sdeva/Research/writing/SOP/sop_basic.tex",
+		"/home/sdeva/Research/writing/SOP/abstract_thesis.tex",
+		"/home/sdeva/Research/writing/RI/RI_GESIS.tex",
+		"/home/sdeva/Desktop/contact_mail",
+		"/home/sdeva/workspace/interview_intern/interviewaSungho.ipynb",
+		"/home/sdeva/.config/sublime-text-3/Packages/User/tensor-python.sublime-build",
+		"/home/sdeva/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/home/sdeva/Research/writing/CV/cv-sungho.tex",
+		"/home/sdeva/workspace/d_d/exp_results/plotting_2.py",
+		"/home/sdeva/Desktop/pascin_dsn16_first_reviews.txt",
+		"/home/sdeva/Downloads/sop (1).tex",
+		"/home/sdeva/Downloads/statement_of_purpose_0.tex",
+		"/home/sdeva/Downloads/statement_of_purpose_0 (1).tex",
+		"/home/sdeva/Downloads/StatementOfResearch (1).tex",
+		"/home/sdeva/Downloads/sop.tex",
+		"/home/sdeva/Research/writing/170111_DD.tex",
+		"/home/sdeva/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/sdeva/workspace/d_d/dd_python/src_dd/files.py",
+		"/home/sdeva/workspace/d_d/dd_python/src_dd/files.pyc",
+		"/home/sdeva/workspace/d_d/dd_python/label_pred_rnn.txt",
+		"/home/sdeva/Desktop/birnn_3_300_6",
+		"/home/sdeva/Desktop/birnn_3_300_6(2)",
+		"/home/sdeva/Desktop/birnn_3_100.txt",
+		"/home/sdeva/workspace/d_d/exp_results/result_label_smi_13_20_30_event.txt",
+		"/home/sdeva/workspace/d_d/dd_python/label_pos_cnn.txt",
+		"/home/sdeva/workspace/d_d/dd_python/label_neg_rnn.txt",
+		"/home/sdeva/workspace/d_d/dd_python/label_pos_rnn.txt",
+		"/home/sdeva/workspace/d_d/dd_python/makeCV_dataset.py",
+		"/home/sdeva/workspace/d_d/dd_python/result_parser.py",
+		"/home/sdeva/workspace/d_d/dd_python/plotting.py",
+		"/home/sdeva/workspace/TensorFlow-Examples-master/examples/4_Utils/save_restore_model.py",
+		"/home/sdeva/workspace/TensorFlow-Examples-master/examples/3_NeuralNetworks/convolutional_network.py",
+		"/home/sdeva/workspace/TensorFlow-Examples-master/examples/3_NeuralNetworks/bidirectional_rnn.py",
+		"/home/sdeva/Research/writing/EUSIPCO/DD_EUSIPCO.tex",
+		"/home/sdeva/.config/sublime-text-3/Packages/Virtualenv/README.md",
+		"/home/sdeva/workspace/d_d/dd_python/dd_cnn.sublime-project",
+		"/home/sdeva/.config/sublime-text-3/Packages/Python/Python.sublime-syntax",
+		"/home/sdeva/.config/sublime-text-3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/home/sdeva/workspace/d_d/dd_python/src_dd/__init__.py"
+	],
+	"find":
+	{
+		"height": 60.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"although",
+			"tendency",
+			"is re",
+			"a",
+			"homepage",
+			"[3]",
+			" \n",
+			"similarity",
+			"cost",
+			"outdated",
+			"ICWSM16",
+			" \n",
+			"assigns",
+			"information have",
+			"information",
+			"nejdl",
+			"l3s",
+			"L3S",
+			"nej",
+			"nejdl",
+			"alexandria",
+			"was",
+			"informations",
+			" \n",
+			"CI",
+			"reversing",
+			"figure",
+			"three",
+			"stack",
+			"log_loss",
+			"print",
+			"missing_word2Vec",
+			"nr",
+			"=",
+			"]",
+			"params",
+			"1",
+			"0.01",
+			"surplus",
+			"make_feat_nn",
+			"makeList_pTag_sentence",
+			"time",
+			"makeList_pTag_sentence",
+			"print",
+			"list_pr_q2",
+			"make_feat_pr",
+			"makeList_pTag_sentence",
+			"make_feat_nn",
+			"water quickly sugar",
+			"waterquicklysugar",
+			"sexual experience",
+			"When do you use",
+			"feat_vb",
+			"pos_tag",
+			"refine_vb_list",
+			"refine_text",
+			"makeList_pTag_sentence",
+			"friend",
+			"sto",
+			"refine_vb_list",
+			"makeList_pTag_sentence",
+			"hstack",
+			"stack",
+			"refine_vb_list",
+			"refine_text",
+			"overlap",
+			"\n\t\t\t\t",
+			"makeList_pTag_sentence",
+			"Trump",
+			"Trump-Clinton",
+			"[",
+			"]",
+			"[",
+			"]",
+			"[",
+			"]",
+			"11823",
+			"stem_str",
+			"Euru",
+			"zandikhohlisa",
+			"daiict",
+			"playstor",
+			"Poetri",
+			"throwaround",
+			"playstor",
+			"\t\t\t\n",
+			"dict_pos",
+			"text",
+			"stem_str",
+			"porter",
+			"SnowballStemmer",
+			"stem_str",
+			"otehr",
+			"MPI",
+			"TUM",
+			"MPI",
+			"It",
+			" \n",
+			"hae",
+			"sungchul",
+			"sunghcul",
+			"link",
+			"MPI",
+			"this is page \\thepage",
+			"GESIS",
+			"thesis",
+			"href",
+			"page",
+			"not",
+			"unseen",
+			"users",
+			"purcha",
+			"such as",
+			"maxpool2d",
+			"decided",
+			"aimed",
+			"observed",
+			"alw",
+			" \n",
+			"considering",
+			"training dataset",
+			"MFCC",
+			"considering",
+			"simple",
+			"from",
+			"ms",
+			"'out'",
+			"feature_data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cd",
+			":",
+			"",
+			"dict_total_pos",
+			"href[pdfnewwindow=true]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/sdeva/Research/writing/EUSIPCO/DD_EUSIPCO.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31093,
+								31093
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/sdeva/Research/PhD_apply/RI/RI_internship.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/sdeva/Research/PhD_apply/SOP/sop_Polytech.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9431,
+								9431
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/sdeva/Research/PhD_apply/skype_interview.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4931,
+								4931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/sdeva/Research/PhD_apply/CV/applying/cv_sungho_applying.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13206,
+								13206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/sdeva/Research/PhD_apply/RI/RI_Social.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/sdeva/Research/PhD_apply/SOP/sop_bonn.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7621,
+								7621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/sdeva/Research/PhD_apply/SOP/sop_HPI.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5294,
+								5294
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/sdeva/Research/PhD_apply/SOP/sop_konstanz.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2388,
+								2397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/sdeva/Research/PhD_apply/SOP/sop_inria.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4501,
+								4501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/sdeva/Research/PhD_apply/RI/RI_HPI.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6399,
+								6399
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/sdeva/workspace/practice_pytorch/practice.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/sdeva/Research/writing/PASCIN_IJCIP/PASIN_IJCIP.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 382.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 242.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "dd_cnn.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

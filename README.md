@@ -16,6 +16,10 @@ Please use the following citation:
 Contact person: Sungho Jeon, sdeva14@gmail.com
 
 ## Project structure
+  * `dd_rnn.py` -- Experiments using RNN (Tensorflow 0.12) 
+  * `dd_cnn.py` -- Experiments using CNN (Tensorflow 0.12)
+  * `dd_gmm.py` -- Experiments using GMM (Scikit-learn 0.18)
+
 
 ## Requirements
 * Software dependencies

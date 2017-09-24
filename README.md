@@ -1,5 +1,5 @@
 # Empirical Study of Drone Sound Detection in Real-Life Environment with Deep Neural Networks, EUSIPCO17
-This project contains Python implementation used for research paper published in EUSIPCO17.
+This project contains Python experimental implementation used for research paper published in EUSIPCO17.
 
 Please use the following citation:
 

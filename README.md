@@ -15,7 +15,7 @@ Please use the following citation:
 }
 ```
 
-Contact person: Sungho Jeon, sdeva14@gmail.com
+Contact person: Sungho Jeon, sungho.jeon@h-its.org
 
 ## Project structure
   * `dd_rnn.py` -- Experiments using RNN (Tensorflow 0.12) 
